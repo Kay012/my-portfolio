@@ -250,7 +250,7 @@ export const experience = [
 	{
 		role: "Academic Tutor",
 		company: "University of Johannesnurg",
-		companylogo: "https://github.com/Kay012/portfolio/img/icons/common/uj.png",
+		companylogo: "https://kay012.github.io/my-portfolio/img/icons/common/uj.png",
 		date: "First Semester | 2020, 2021, 2022",
 		desc: "Assisting students reach their potential in programming and pass the module.",
 	},
@@ -293,7 +293,7 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Developer.",
 	author: "Mkhululi Cebani",
-	image: "https://github.com/Kay012/portfolio/img/icons/common/myself.jpeg",
+	image: "https://kay012.github.io/my-portfolio/img/icons/common/myself.jpeg",
 	url: "",
 	keywords: [
 		"Mkhululi",
