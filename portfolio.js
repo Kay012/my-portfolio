@@ -259,28 +259,28 @@ export const experience = [
 export const projects = [
 	{
 		name: "my-portfolio",
-		desc: "Portfolio website built with react.js bootstrap that helps to showcase my work and skills as a software developer.",
+		desc: "Portfolio website built with react.js bootstrap that helps to showcase my work and skills as a software developer. Developed With Reactjs + Bootstrap + Nextjs",
 		github: "https://github.com/Kay012/my-portfolio.git",
-		link: "",
+		link: "https://www.mkhululicebani.co.za",
 	},
 	{
 		name: "myDoctor (booking) ",
-		desc: "Finding and booking appointments with doctors made easier",
+		desc: "Finding and booking appointments with doctors made easier. Developed with React Native + Firebase",
 		github: "https://www.github.com/Kay012/doctor_appointment_booking-mobile-app",
 	},
 	{
 		name: "Siphumelele-Kati (Author) ",
-		desc: "Finding and booking appointments with doctors made easier",
+		desc: "This is an Author Website. Developed with Reactjs",
 		link: "https://www.siphumelelekati.com"
 	},
 	{
 		name: "Likely (dating)",
-		desc: "A dating app strictly for tertiary students",
+		desc: "A dating app strictly for tertiary students. Developed with Reactjs + Express + MongoDB + NodeJs",
 		link: "https://www.likely.co.za"
 	},
 	{
 		name: "e-marketplace (e-marketplace)",
-		desc: "You can sell or buy from various vendors on the platform",
+		desc: "You can sell or buy from various vendors on the platform.  Developed with Reactjs + Express + MongoDB + NodeJs ",
 		github: "https://github.com/Kay012/e-marketplace",
 		link: "https://e-marketplace1.herokuapp.com"
 	},
